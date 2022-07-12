@@ -1,0 +1,9 @@
+com.ericramirezs.commando4j.command
+com.ericramirezs.commando4j.command.arguments
+com.ericramirezs.commando4j.command.command
+com.ericramirezs.commando4j.command.command.util
+com.ericramirezs.commando4j.command.customizations
+com.ericramirezs.commando4j.command.data
+com.ericramirezs.commando4j.command.enums
+com.ericramirezs.commando4j.command.exceptions
+com.ericramirezs.commando4j.command.util
